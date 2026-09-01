@@ -1,0 +1,88 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="74" y1="20" x2="1124" y2="347" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0D12"/>
+      <stop offset="0.55" stop-color="#11151E"/>
+      <stop offset="1" stop-color="#080A0F"/>
+    </linearGradient>
+    <linearGradient id="coral" x1="198" y1="86" x2="986" y2="282" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8A72"/>
+      <stop offset="0.48" stop-color="#F04F64"/>
+      <stop offset="1" stop-color="#8E5BFF"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="719" y1="63" x2="1061" y2="278" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#62D9FF" stop-opacity="0"/>
+      <stop offset="0.48" stop-color="#62D9FF" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#F04F64" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(932 170) rotate(180) scale(282 218)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F04F64" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#F04F64" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <filter id="tinyGlow" x="-100%" y="-100%" width="300%" height="300%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="2.5"/>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+    <clipPath id="clip">
+      <rect width="1200" height="360" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <ellipse cx="936" cy="171" rx="305" ry="229" fill="url(#glow)"/>
+
+    <path d="M702 295C786 225 887 194 1088 164" stroke="url(#beam)" stroke-width="1.2"/>
+    <path d="M673 79C807 105 957 133 1125 235" stroke="#8E5BFF" stroke-opacity="0.22"/>
+    <path d="M742 43C830 141 978 252 1160 285" stroke="#62D9FF" stroke-opacity="0.12"/>
+
+    <g transform="translate(931 172)">
+      <ellipse rx="204" ry="72" transform="rotate(-18)" stroke="url(#coral)" stroke-width="2" stroke-opacity="0.85"/>
+      <ellipse rx="161" ry="54" transform="rotate(21)" stroke="#62D9FF" stroke-opacity="0.28"/>
+      <circle r="70" fill="#111620" stroke="#FFFFFF" stroke-opacity="0.09"/>
+      <circle r="54" fill="url(#coral)" opacity="0.92"/>
+      <circle cx="-18" cy="-20" r="38" fill="#FFB08A" fill-opacity="0.22"/>
+      <path d="M-26 28C-2 5 14 4 42-15" stroke="#0D1017" stroke-opacity="0.34" stroke-width="8" stroke-linecap="round"/>
+      <circle cx="-194" cy="57" r="6" fill="#62D9FF"/>
+      <circle cx="-194" cy="57" r="12" fill="#62D9FF" fill-opacity="0.3" filter="url(#softGlow)"/>
+      <circle cx="183" cy="-48" r="5" fill="#FF8A72"/>
+      <circle cx="183" cy="-48" r="11" fill="#FF8A72" fill-opacity="0.35" filter="url(#softGlow)"/>
+    </g>
+
+    <g fill="#FFFFFF">
+      <circle cx="690" cy="49" r="1.5" opacity="0.7"/>
+      <circle cx="781" cy="112" r="1" opacity="0.45"/>
+      <circle cx="844" cy="42" r="1.2" opacity="0.8"/>
+      <circle cx="1036" cy="56" r="1" opacity="0.55"/>
+      <circle cx="1118" cy="109" r="1.4" opacity="0.7"/>
+      <circle cx="730" cy="240" r="1.2" opacity="0.5"/>
+      <circle cx="820" cy="314" r="1" opacity="0.65"/>
+      <circle cx="1055" cy="312" r="1.5" opacity="0.6"/>
+      <circle cx="1152" cy="265" r="1" opacity="0.75"/>
+    </g>
+
+    <circle cx="1118" cy="109" r="7" fill="#FFFFFF" fill-opacity="0.35" filter="url(#tinyGlow)"/>
+    <path d="M1118 96V122M1105 109H1131" stroke="white" stroke-opacity="0.75" stroke-linecap="round"/>
+
+    <g transform="translate(72 76)">
+      <rect width="54" height="6" rx="3" fill="url(#coral)"/>
+      <text x="0" y="66" fill="#F7F8FA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="750" letter-spacing="-2">IVO BRAATZ</text>
+      <text x="2" y="105" fill="#A7AFBE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="500" letter-spacing="3">SOFTWARE ENGINEER</text>
+      <text x="2" y="151" fill="#D8DCE4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Produtos completos. Código sólido. Do zero ao deploy.</text>
+      <g transform="translate(2 181)">
+        <circle cx="6" cy="6" r="6" fill="#47D18C"/>
+        <circle cx="6" cy="6" r="11" fill="#47D18C" fill-opacity="0.13"/>
+        <text x="26" y="12" fill="#8F98A8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="1.4">BRASIL  •  CONSTRUINDO DE PONTA A PONTA</text>
+      </g>
+    </g>
+
+    <rect x="1" y="1" width="1198" height="358" rx="23" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2"/>
+    <rect y="354" width="1200" height="6" fill="url(#coral)"/>
+  </g>
+</svg>
