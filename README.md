@@ -49,12 +49,12 @@ Sou engenheiro de software e gosto de transformar ideias em produtos que realmen
 ## Em números
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ivobraatz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F04F64&icon_color=F04F64&text_color=C9D1D9&ring_color=F04F64&locale=pt-br" alt="Estatísticas do GitHub de Ivo Braatz" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivobraatz&layout=compact&hide_border=true&bg_color=0D1117&title_color=F04F64&text_color=C9D1D9&langs_count=6&locale=pt-br" alt="Linguagens mais usadas por Ivo Braatz" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivobraatz&theme=radical" alt="Atividade e contribuições de Ivo Braatz" />
 </div>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ivobraatz&bg_color=0D1117&color=C9D1D9&line=F04F64&point=62D9FF&area=true&area_color=F04F64&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" alt="Gráfico de contribuições de Ivo Braatz" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivobraatz&theme=radical" alt="Estatísticas do GitHub de Ivo Braatz" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivobraatz&theme=radical" alt="Linguagens mais usadas nos repositórios de Ivo Braatz" />
 </div>
 
 ## Vamos construir algo juntos?
