@@ -1,7 +1,6 @@
 <div align="center">
   <img src="./assets/profile-banner.svg" width="100%" alt="Ivo Braatz — Software Engineer" />
 </div>
-https://www.braatz.com.br/
 <div align="center">
   <a href="https://www.braatz.com.br/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-0d1117?style=for-the-badge&logo=vercel&logoColor=F04F64" alt="Portfólio" /></a>
   <a href="https://www.linkedin.com/in/ivobraatz"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=F04F64" alt="LinkedIn" /></a>
