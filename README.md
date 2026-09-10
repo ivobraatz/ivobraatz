@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://ivobraatz.com"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-0d1117?style=for-the-badge&logo=vercel&logoColor=F04F64" alt="Portfólio" /></a>
+  <a href="https://braatz.com.br"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-0d1117?style=for-the-badge&logo=vercel&logoColor=F04F64" alt="Portfólio" /></a>
   <a href="https://www.linkedin.com/in/ivobraatz"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=F04F64" alt="LinkedIn" /></a>
   <a href="mailto:braatzivo@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=microsoftoutlook&logoColor=F04F64" alt="E-mail" /></a>
   <a href="https://github.com/ivobraatz?tab=followers"><img src="https://img.shields.io/github/followers/ivobraatz?style=for-the-badge&logo=github&label=SEGUIR&labelColor=0d1117&color=F04F64" alt="Seguidores no GitHub" /></a>
